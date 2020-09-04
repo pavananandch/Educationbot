@@ -10,7 +10,7 @@
   "dependencies": {
     "apiai": "^4.0.3",
     "express": "^4.16.2",
-    "mongodb": "^2.2.33",
+    "mongodb": "^3.6.1",
     "nodemailer": "^4.6.4",
     "googleapis": "^27.0.0",
     "unirest": "^0.5.1"
